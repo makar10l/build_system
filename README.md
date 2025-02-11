@@ -3,3 +3,5 @@ make - script that can compile my projects
         1. clone lib
         2. compile project
         3. delete lib
+
+start.bat - start build in windows`
